@@ -1,0 +1,24 @@
+{
+  "search_query": "IT",
+  "location": "Philippines",
+  "keywords": [
+    "IT",
+    "Software",
+    "Developer",
+    "Engineer",
+    "Programmer",
+    "Technology",
+    "Computer",
+    "Data",
+    "Cloud",
+    "DevOps",
+    "System Administrator",
+    "Network",
+    "Cybersecurity",
+    "Database"
+  ],
+  "year_filter": 2026,
+  "max_pages": 10,
+  "output_format": "both",
+  "rate_limit_seconds": 100
+}
