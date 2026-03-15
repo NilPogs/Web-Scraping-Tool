@@ -4,13 +4,13 @@ A Python-based web scraping tool for extracting IT job postings from Indeed.com 
 
 ## Features
 
-- 🔍 Search jobs by keywords and location
-- 📅 Filter jobs by posting year (focused on 2021 for research)
-- 🏷️ Filter by specific keywords in job descriptions
-- 💾 Export data to CSV or JSON formats
-- 📊 Generate summary statistics
-- ⚙️ Easy configuration via JSON file
-- 🚦 Built-in rate limiting to respect Indeed's servers
+-  Search jobs by keywords and location
+-  Filter jobs by posting year (focused on 2021 for research)
+-  Filter by specific keywords in job descriptions
+-  Export data to CSV or JSON formats
+-  Generate summary statistics
+-  Easy configuration via JSON file
+-  Built-in rate limiting to respect Indeed's servers
 
 ## Requirements
 
